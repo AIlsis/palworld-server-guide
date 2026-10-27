@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 备份与运行时产物（服务器存档不进仓库）
+*.tar.gz
+palworld-backups/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 日志
+*.log
