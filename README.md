@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png" alt="幻兽帕鲁开服完全指南" width="100%">
+</p>
+
 # 幻兽帕鲁开服完全指南（Palworld Server Guide）
 
 > 新手向：配置怎么选、三种开服方式对比、一键开服步骤、面板管存档/mod、常见问题。
@@ -83,5 +87,6 @@ ls -t "$BACKUP_DIR"/palworld-save-*.tar.gz | tail -n +11 | xargs -r rm
 
 ## 相关
 
-- [云服务器选购与省钱指南](https://github.com/)（选购部分见作者主页）
+- [云服务器选购与省钱指南](https://github.com/AIlsis/cloud-server-saving-guide) —— 开服前先搞清楚买什么配置最划算
+- [腾讯云活动汇总（按人群分流）](https://af36145bc72a974a1.app.workbuddy.host/?sharecode=SXIKXP5ZTL) —— 游戏开服 / AI 办公 / 企业采购 各走各的门
 - 本指南基于公开产品文档与实测整理，活动信息截至 2026 年 10 月，以官网为准
